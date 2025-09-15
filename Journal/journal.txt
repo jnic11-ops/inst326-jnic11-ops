@@ -1,0 +1,9 @@
+AI Usage Journal
+Jacob Nicholson
+jnic11@terpmail.umd.edu
+Section 0202
+
+Week 1
+- Didn't use AI very much
+- While coding in the google colab it does make AI suggestions but I continued with my work trying to rely on those as much as possible
+- The AI suggestions did come in handy when there were terms I was forgetful about or not confident in their use
