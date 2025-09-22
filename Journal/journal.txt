@@ -7,3 +7,8 @@ Week 1
 - Didn't use AI very much
 - While coding in the google colab it does make AI suggestions but I continued with my work trying to rely on those as much as possible
 - The AI suggestions did come in handy when there were terms I was forgetful about or not confident in their use
+
+Week 2
+- AI came in handy this week for researching terms that I was less familiar with or forgot such as != or other ones that I forgot when the right time to use them was
+-It also helped for my problem solving, an example chat would be "why is this code not returning correctly?" which the response was that I had mispelt a variable and didn't realize
+- AI also helped when I was stuck on a problem and didn't know the next step to take in figuring it out
