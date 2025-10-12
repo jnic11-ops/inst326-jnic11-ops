@@ -23,3 +23,9 @@ Week 4
 - AI was very helpful in my troubleshooting and understanding what i was doing wrong
 - AI was also useful in researching what certain things did, especially when they were recommended and I didn't know what it was or what it did
 - The recommendations did come in handy when solving the problems and helping get started
+
+Week 5
+- AI was very useful for my studying this week, and explaining concepts such as encapsulation to me.
+- As always it was also helpful with problem-solving/troubleshooting when code wouldn't work. (helpful for finding mispells)
+- Used AI to help generate and start idea functions for Project 01.
+- AI recommendations also helped when I was in a stuck spot and unsure what to do next.
