@@ -29,3 +29,9 @@ Week 5
 - As always it was also helpful with problem-solving/troubleshooting when code wouldn't work. (helpful for finding mispells)
 - Used AI to help generate and start idea functions for Project 01.
 - AI recommendations also helped when I was in a stuck spot and unsure what to do next.
+
+Week 6
+- I relied on AI more than the past weeks, especially with helping to create the semester project. It was very useful for idea generation as well and problem solving.
+- I also used AI to check my answers for the weekly exercises as there was not prompts to check if you answered correctly or not.
+- For the weekly exercises AI also came in handy when trying to troubleshoot and figure out the mistakes I was making.
+- AI was incredbily useful for explaining the confusing concepts to me and helping me understand what my code is doing and why it does it.
