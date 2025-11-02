@@ -35,3 +35,9 @@ Week 6
 - I also used AI to check my answers for the weekly exercises as there was not prompts to check if you answered correctly or not.
 - For the weekly exercises AI also came in handy when trying to troubleshoot and figure out the mistakes I was making.
 - AI was incredbily useful for explaining the confusing concepts to me and helping me understand what my code is doing and why it does it.
+
+Week 7
+- This week I used AI to assist in the creation of the classes for the semester project. It was very useful in making sure the classes fulfilled the criteria, made logical sense, and operated and connected smoothly.
+- It was also implemented for the weekly exercises, in which it helped me test my code on the exercises without a checker to ensure I had the correct answer.
+- It also helped explain concepts and when to use them as well as suggesting better ways to write my code.
+- AI was very useful for recommending some class ideas to implement with the project.
