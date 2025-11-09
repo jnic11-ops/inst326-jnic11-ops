@@ -41,3 +41,9 @@ Week 7
 - It was also implemented for the weekly exercises, in which it helped me test my code on the exercises without a checker to ensure I had the correct answer.
 - It also helped explain concepts and when to use them as well as suggesting better ways to write my code.
 - AI was very useful for recommending some class ideas to implement with the project.
+
+Week 8
+- AI was incredibly helpful this week with explaining inheritance and polymorphism
+- It was used to help troubleshoot and figure out what was going wrong with my code and gave me help getting it started when I was stuck
+- Good examples are when I asked questions such as do I have to rewrite the entire class when making changes to the Book class
+- AI also explained the reasoning behind why it is done certain ways and what the best practices are
