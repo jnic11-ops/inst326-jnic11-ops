@@ -47,3 +47,8 @@ Week 8
 - It was used to help troubleshoot and figure out what was going wrong with my code and gave me help getting it started when I was stuck
 - Good examples are when I asked questions such as do I have to rewrite the entire class when making changes to the Book class
 - AI also explained the reasoning behind why it is done certain ways and what the best practices are
+
+Week 9
+- AI was helpful with troubleshooting this week and helping understand exactly what needed to be done.
+- I used it to figure out how to properly organize the testing as well as what I was missing in my code.
+- It also just helped explain the overall concepts and helped with studying the concepts.
