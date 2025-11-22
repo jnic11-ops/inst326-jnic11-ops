@@ -52,3 +52,8 @@ Week 9
 - AI was helpful with troubleshooting this week and helping understand exactly what needed to be done.
 - I used it to figure out how to properly organize the testing as well as what I was missing in my code.
 - It also just helped explain the overall concepts and helped with studying the concepts.
+
+Week 10
+- AI helped find what I was doing wrong and suggesting solutions to the exercises
+- It was also helpful in explaining concepts and what they do, a good example was helping me better understand the assertions
+- When I got stuck it would tell me what is wrong with my code and why it isn't working
