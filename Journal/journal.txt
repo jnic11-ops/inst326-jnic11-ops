@@ -57,3 +57,11 @@ Week 10
 - AI helped find what I was doing wrong and suggesting solutions to the exercises
 - It was also helpful in explaining concepts and what they do, a good example was helping me better understand the assertions
 - When I got stuck it would tell me what is wrong with my code and why it isn't working
+
+Week 12
+- Didn't use AI much this week, was mostly focused on other classes and completing those assignments
+
+Week 13
+- Used AI to help develop the comprehensive testing for Project 4
+- It was helpful in troubleshooting why running our main program wasn't working and what I was doing wrong
+- Helped get the tests running optimally on my computer as well
